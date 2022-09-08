@@ -1,31 +1,13 @@
 # Augmentation
 
+## Img DATA
 
 
+<br/> <br/>
 
+## Time Series DATA 
 
-
-
-
-
-
-
-
-
-
-
-<br/><br/>
-
-
-## Time Series DATA Augmentation
-
-
-
-#### Use time Series DATA
-
-1. Time Series Classification (분류) <br/>
-2. Time Series Anomaly Detection (이상치 탐지) <br/>
-3. Time Series Forecasting (예측) <br/>
+in [here](./Time_Series.md)
 
 
 

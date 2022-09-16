@@ -1,16 +1,23 @@
 # Img DATA (CV)
 
-### Flipping
+ [code](./ImgDATA_openCV.ipynb)
 
-### Gray scale
+### Original DATA 
+<img src="./img/data.png" width="350">
 
-### Brightness
+<br/><br/>
 
-### Rotation
+## Flipping
 
-### Center Crop
+## Gray scale
 
-### Saturation
+## Brightness
+
+## Rotation
+
+## Center Crop
+
+## Saturation
 
 <br/>
 <br/>
